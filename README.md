@@ -34,4 +34,6 @@ console.log("1" + 1); = ao executar o código será impresso o resultado "11", p
 um valor numérico com um texto pois o "1" está entre aspas duplas, a concatenação/soma só acontece 
 quando o código está dessa forma console.log(1 + 1);.
 
+Para vermos qual o tipo de informação está em uma variável usa-se (typeof mais um valor literal), e executamos para ver o tipo do valor, um exemplo console.log(typeof 31);.
+
 ```
