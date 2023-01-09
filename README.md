@@ -15,7 +15,8 @@ Quando quisermos escrever um texto, devemos utilizar aspas duplas ou aspas simpl
 
 ({}) Colchetes servem para separar por blocos e agrupar sentenças de códigos.
 
-O código de um programa é organizado em pastas, arquivos (.c, .py, .cpp, .js...), com sentenças de códigos juntamente com blocos.
+O código de um programa é organizado em pastas, arquivos (.c, .py, .cpp, .js...), com sentenças de códigos 
+juntamente com blocos.
 
 Javascript usa um padrão americano, então ao separar as casas decimais, você não usa (,) e sim (.).
 
@@ -25,8 +26,11 @@ Forma moderna de criar variável ao invés de usar (var) usa-se (let).
 
 String (Texto) -> sequencia de símbolos
 
-Quando quiser imprimir texto com valor de variável mesmo com valores numéricos no meio,  usa-se (+)  para concatenar textos, ou juntar um texto noutro.
+Quando quiser imprimir texto com valor de variável mesmo com valores numéricos no meio,  usa-se (+)  para 
+concatenar textos, ou juntar um texto noutro.
 
-O que estiver dentro de aspas duplas denomina-se texto, então realizando o código dessa forma console.log("1" + 1); = ao executar o código será impresso o resultado "11", pois houve uma concatenação de um valor numérico com um texto pois o "1" está entre aspas duplas.
+O que estiver dentro de aspas duplas denomina-se texto, então realizando o código dessa forma 
+console.log("1" + 1); = ao executar o código será impresso o resultado "11", pois houve uma concatenação de 
+um valor numérico com um texto pois o "1" está entre aspas duplas.
 
 ```
