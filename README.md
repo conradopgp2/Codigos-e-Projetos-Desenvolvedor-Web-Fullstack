@@ -23,4 +23,7 @@ A variável pode ser usada quantas vezes você quiser, e modificar por exemplo o
 
 Forma moderna de criar variável ao invés de usar (var) usa-se (let).![image](https://user-images.githubusercontent.com/70293138/211233704-82859dcd-7a85-408d-b2ca-02a44d1aee36.png)
 String (Texto) -> sequencia de símbolos
+
+Quando quiser imprimir texto com valor de variável mesmo com valores numéricos no meio,  usa-se (+)  para concatenar textos, ou juntar um texto noutro.
+
 ```
