@@ -44,5 +44,5 @@ Para transformarmos uma variavel em constante usa-se (const).
 
 Para atribuirmos um valor temporário a uma variável usa-se (temp).
 
-Para realizarmos uma troca direta de valores de variáveis  usa-se exemplo [a, b] = [b, a].
+Para realizarmos uma troca direta de valores de variáveis usa-se exemplo [a, b] = [b, a].
 ```
