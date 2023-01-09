@@ -31,6 +31,6 @@ concatenar textos, ou juntar um texto noutro.
 
 O que estiver dentro de aspas duplas denomina-se texto, então realizando o código dessa forma 
 console.log("1" + 1); = ao executar o código será impresso o resultado "11", pois houve uma concatenação de 
-um valor numérico com um texto pois o "1" está entre aspas duplas.
+um valor numérico com um texto pois o "1" está entre aspas duplas, a concatenação/soma só acontece quando o código está dessa forma console.log(1 + 1);.
 
 ```
