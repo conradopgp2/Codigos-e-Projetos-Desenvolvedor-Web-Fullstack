@@ -39,4 +39,6 @@ Para vermos qual o tipo de informação está em uma variável usa-se
 um exemplo console.log(typeof 31);.
 
 Javascript não faz diferenciação entre números inteiros e números que tem casa decimais.
+
+Para transformarmos uma variavel em constante usa-se (const).
 ```
