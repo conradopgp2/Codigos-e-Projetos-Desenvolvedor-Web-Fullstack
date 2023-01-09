@@ -1,6 +1,6 @@
 # Codigos-e-Projetos-Desenvolvedor-Web-Fullstack
 
-## Linguagem inicialmente usada .JS (JavaScript)
+## Linguagem inicialmente usada .JS (Javascript)
 
 ## Abordamos os seguintes comandos
 
