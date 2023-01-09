@@ -21,6 +21,6 @@ Javascript usa um padrão americano, então ao separar as casas decimais, você 
 
 A variável pode ser usada quantas vezes você quiser, e modificar por exemplo o nome alterando no final do código.
 
-Forma moderna de criar variável ao invés de usar (var) usa-se (let).
-![image](https://user-images.githubusercontent.com/70293138/211233028-6008ceef-03ac-4365-be5b-e4faa1dd08bc.png)
+Forma moderna de criar variável ao invés de usar (var) usa-se (let).![image](https://user-images.githubusercontent.com/70293138/211233704-82859dcd-7a85-408d-b2ca-02a44d1aee36.png)
+String (Texto) -> sequencia de símbolos
 ```
