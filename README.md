@@ -41,4 +41,7 @@ um exemplo console.log(typeof 31);.
 Javascript não faz diferenciação entre números inteiros e números que tem casa decimais.
 
 Para transformarmos uma variavel em constante usa-se (const).
+
+Para atribuirmos um valor temporário a uma variável usa-se (temp).
+
 ```
