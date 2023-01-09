@@ -38,4 +38,5 @@ Para vermos qual o tipo de informação está em uma variável usa-se
 (typeof mais um valor literal), e executamos para ver o tipo do valor, 
 um exemplo console.log(typeof 31);.
 
+Javascript não faz diferenciação entre números inteiros e números que tem casa decimais.
 ```
