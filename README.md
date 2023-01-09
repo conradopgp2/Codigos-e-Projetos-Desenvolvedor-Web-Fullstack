@@ -26,4 +26,6 @@ String (Texto) -> sequencia de símbolos
 
 Quando quiser imprimir texto com valor de variável mesmo com valores numéricos no meio,  usa-se (+)  para concatenar textos, ou juntar um texto noutro.
 
+O que estiver dentro de aspas duplas denomina-se texto, então realizando o código dessa forma console.log("1" + 1); = ao executar o código será impresso o resultado "11", pois houve uma concatenação de um valor numérico com um texto pois o "1" está entre aspas duplas.
+
 ```
