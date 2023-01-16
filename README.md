@@ -45,4 +45,8 @@ Para transformarmos uma variavel em constante usa-se (const).
 Para atribuirmos um valor temporário a uma variável usa-se (temp).
 
 Para realizarmos uma troca direta de valores de variáveis usa-se exemplo [a, b] = [b, a].
+
+Para transformarmos media em uma string e em valor binário usa-se .toString(2));.
+
+Para escolher o número de casas decimais que queremos que seja impresso utilizamos .toFixed(2));.
 ```
