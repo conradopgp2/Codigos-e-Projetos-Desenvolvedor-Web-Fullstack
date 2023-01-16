@@ -24,7 +24,7 @@ A variável pode ser usada quantas vezes você quiser, e modificar por exemplo o
 
 Forma moderna de criar variável ao invés de usar (var) usa-se (let).
 
-String (Texto Literal) -> que coloca-se entre aspas duplas ou aspas simples.
+String (Texto Literal) ( cadeia de caracteres ) -> que coloca-se entre aspas duplas ou aspas simples.
 
 Quando quiser imprimir texto com valor de variável mesmo com valores numéricos no meio,  usa-se (+)  para 
 concatenar textos, ou juntar um texto noutro.
