@@ -46,7 +46,9 @@ Para atribuirmos um valor temporário a uma variável usa-se (temp).
 
 Para realizarmos uma troca direta de valores de variáveis usa-se exemplo [a, b] = [b, a].
 
-Para transformarmos media em uma string e em valor binário usa-se .toString(2));.
+Para transformarmos media em uma string e em valor binário usa-se media.toString(2))
 
-Para escolher o número de casas decimais que queremos que seja impresso utilizamos .toFixed(2));.
+Para escolher o número de casas decimais que queremos que seja impresso utilizamos media.toFixed(2));.
+
+Para sabermos se o valor de uma constante é inteiro ou não usamos Number.isInteger(peso1));.
 ```
